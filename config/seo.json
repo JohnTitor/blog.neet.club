@@ -1,15 +1,16 @@
 {
   "siteMetadata": {
-    "title": "Next.js Starter Blog",
+    "title": "Humanlike",
     "author": {
-      "name": "Jose Felix",
-      "summary": "who works building clean user interfaces with React."
+      "name": "Yuki Okushi",
+      "summary": "Japanese codewriting ninja"
     },
-    "description": "A blog created with Next.js and Tailwind.css",
-    "siteUrl": "https://nextjs-starter-blog-demo.netlify.app/",
-    "language": "en-US",
+    "description": "A collection of snobbish posts",
+    "siteUrl": "https://blog.ubel.codes/",
+    "language": "ja-JP",
     "social": {
-      "twitter": "Jose_R_Felix"
+      "github": "JohnTitor",
+      "twitter": "JustM0nik4"
     }
   }
 }

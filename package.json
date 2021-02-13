@@ -37,9 +37,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jfelix61/nextjs-starter-blog.git"
+    "url": "git+https://github.com/JohnTitor/blog.ubel.codes.git"
   },
-  "homepage": "https://github.com/Jfelix61/nextjs-starter-blog#readme",
+  "homepage": "https://blog.ubel.codes",
   "keywords": [
     "next.js",
     "blog",

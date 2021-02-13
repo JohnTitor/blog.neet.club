@@ -18,13 +18,13 @@ date: 2020-04-16T11:00:00.000Z
   - 前年同期比48% (93 PRs in 18 repos)
   - 前年はActix回りなど見ているリポジトリの数が多かった
 
-(参考：https://github.com/JohnTitor?tab=overview&from=2021-01-01&to=2021-01-31)
+(参考：<https://github.com/JohnTitor?tab=overview&from=2021-01-01&to=2021-01-31>)
 
 ## Highlighted works
 
-- Do not suggest invalid code in pattern with loop: https://github.com/rust-lang/rust/pull/80941
+- Do not suggest invalid code in pattern with loop: <https://github.com/rust-lang/rust/pull/80941>
   - `loop` + `if let`の下で起きるmoved value errorについて、文法上正しくないsuggestionを出さないようにした
-- https://os.phil-opp.com/ja/
+- <https://os.phil-opp.com/ja/>
   - "bare bones"部分の翻訳を完了（レビュワーとしてお手伝いさせていただいた）
 
 ## Others / brief review
@@ -40,9 +40,9 @@ date: 2020-04-16T11:00:00.000Z
 
 My sponsors (January, 2021):
 
-- https://github.com/crystaldust
-- https://github.com/kuy
+- <https://github.com/crystaldust>
+- <https://github.com/kuy>
 
 ## Want to support my work?
 
-You can support me at https://github.com/sponsors/JohnTitor.
+You can support me at <https://github.com/sponsors/JohnTitor>.

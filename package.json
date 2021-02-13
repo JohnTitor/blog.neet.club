@@ -37,9 +37,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JohnTitor/blog.ubel.codes.git"
+    "url": "git+https://github.com/JohnTitor/blog.neet.club.git"
   },
-  "homepage": "https://blog.ubel.codes",
+  "homepage": "https://blog.neet.club",
   "keywords": [
     "next.js",
     "blog",

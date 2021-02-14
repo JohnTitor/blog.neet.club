@@ -4,7 +4,7 @@ description: 2021年1月期の貢献報告です
 date: 2021-02-13T16:00:00.000Z
 ---
 
-## commits / PRs
+## Commits / PRs
 
 - commits: 191 commits in 19 repos
   - 前年同期比42％ (453 commits in 24 repos)

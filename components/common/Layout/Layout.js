@@ -12,7 +12,7 @@ export function Layout({ children }) {
         <Header />
         <main>{children}</main>
         <footer className="text-lg font-light">
-          © {new Date().getFullYear()}, Built with{" "}
+          © {new Date().getFullYear()} Yuki Okushi, Built with{" "}
           <a href="https://nextjs.org/">Next.js</a>
           &#128293;
         </footer>

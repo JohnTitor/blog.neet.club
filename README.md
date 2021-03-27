@@ -1,5 +1,3 @@
 # blog.neet.club
 
-<https://blog.neet.club>
-
-**This uses https://github.com/JoseRFelix/nextjs-starter-blog as a template.**
+The content is moved to <https://www.neet.club/blog>.
